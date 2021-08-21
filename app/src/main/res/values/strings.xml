@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Deoghar Guide</string>
+    <string name="menu_attractions">Attractions</string>
+    <string name="menu_parks">Parks</string>
+    <string name="menu_restaurants">Restaurants</string>
+    <string name="menu_hotels">Hotels</string>
+    <string name="sample_name">Sample Name Text</string>
+    <string name="sample_location">Sample Location Text</string>
+    <string name="sample_contact">9999999999</string>
+    <string name="sample_desc">Sample Description Text</string>
+</resources>

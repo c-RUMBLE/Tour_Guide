@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/action_attractions"
+        android:checked="true"
+        android:icon="@drawable/ic_action_name_attraction"
+        android:title="@string/menu_attractions"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_parks"
+        android:checked="false"
+        android:icon="@drawable/ic_action_name_park"
+        android:title="@string/menu_parks"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/action_restaurants"
+        android:checked="false"
+        android:icon="@drawable/ic_action_name_restaurant"
+        android:title="@string/menu_restaurants"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/action_hotels"
+        android:checked="false"
+        android:icon="@drawable/ic_action_name_hotel"
+        android:title="@string/menu_hotels"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>
